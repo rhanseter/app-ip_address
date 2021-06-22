@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/rhanseter/app-ip_address#readme",
   "dependencies": {
-    "ip-cidr": "^3.0.3"
+    "ip-cidr": "^1.0.0"
   }
 }
